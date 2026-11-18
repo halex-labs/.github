@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/halex_logo.png" alt="HALEX logo" width="160" height="160">
+  <img src="../assets/halex_logo.png" alt="HALEX logo" width="160" height="160">
 </p>
 
 <h1 align="center">HALEX Labs</h1>
